@@ -1,6 +1,6 @@
 ==How to use REX 1.0==[simple guide]
 
-for issues, Contact me at Telegram - @GodRex2
+for issues, Contact me at Telegram - @clanlord7
 
 first you need to store accounts for scraping and adding purposes in rexmanager.py
 So launch in terminal
